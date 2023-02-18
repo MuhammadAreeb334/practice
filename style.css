@@ -69,3 +69,8 @@ section{
     background-color: #2e354f;
     color: #fff;
 }
+@media (max-width: 600px){
+    h1{
+        font-size: 2.5rem;
+    }
+}
